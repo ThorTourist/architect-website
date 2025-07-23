@@ -226,6 +226,10 @@ main > section {
     margin-top: 20px;
     margin-left: 20px;
   }
+
+  .featured-architect img {
+    width: 100%;
+  }
 }
 
 /* medium device */
